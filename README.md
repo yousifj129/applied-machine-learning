@@ -16,3 +16,5 @@ Additional tasks and datasets may be included in the project, demonstrating the 
 - Python
 - PyTorch
 - scikit-learn
+
+<h4> <span> · </span> <a href="https://github.com/yousifj129/applied-machine-learning/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/yousifj129/applied-machine-learning/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/yousifj129/applied-machine-learning/issues"> Request Feature </a> </h4>
